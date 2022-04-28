@@ -1,0 +1,81 @@
+//1
+["hii", "hello","hi","good morning ", "good afternoon","hyy","hiii","hey","hy"],
+//2
+["how are you","how are you doing","are you fine"],
+//3
+["who are you","what's your name","what is your name","What is your name","What's your name","Who are you","How may I call you","how may i call you"],
+//4 
+["can you help me","can you please help me","what is your functionality","Can you help me"],
+//5
+["eligibility criteria","Eligibility criteria"],
+//6
+["number of seats in cse","no. of seats in cse","no. of seats in CSE","no. of seats available in cse","seats available in cse","no of seats available in cse","seats available in cse","Seats in cse"],
+//7
+["number of seats in ce","no. of seats in ce","no. of seats in CE","no. of seats available in ce","seats available in ce","no of seats available in CE","seats available in ce","seats in CE","Seats in ce"],
+//8
+["number of seats in it","no. of seats in it","no. of seats in IT","no. of seats available in it","seats available in it","seats available in it","seats in IT"],
+//9
+["department wise seats"],
+//10
+["admission procedure"],
+//11
+["admission procedure branch wise","branch wise admission procedure"],
+//12
+["admission procedure in btech"],
+//13
+["fees for engineering","fees structure","fees structure of charusat","fees structure for charusat"],
+//14
+["fees for computer science enginnering"],
+//15
+["fees for btech"],
+//16
+["branchwise fees"],
+//17
+["fees"],
+//18
+["hostel facility","accomodation","hostel"],
+//19
+["boys hostel","hostel facility for boys","hostel for boys"],
+//20
+["girls hostel","hostel facility for girls","hostel for girls"],
+//21
+["last year cutoff for btech cse","cse last year cut off","ending rank for admission in cse branch","ending rank for admission in cse"],
+//22
+["last year cutoff for btech ce","ce last year cut off","ending rank for admission in ce branch","ending rank for admission in ce"],
+//23
+["last year cutoff for btech it","it last year cut off","ending rank for admission in it branch","ending rank for admission in it"],
+//24
+["last year cutoff for btech ece","ec last year cut off","ending rank for admission in ec branch","ending rank for admission in ece","ending rank for admission in ece branch"],
+//25
+["last year cutoff for all branches"],
+//26
+["last year cutoff"],
+//27
+["food facility","mess facility","food","canteen","Lunch"],
+//28
+["which are branches in depstar","depstar branches","branches in depstar","number of branches in depstar","which are the branches are available in depstar","available branches in depstar"],
+//29
+["which are branches in cspit","cspit branches","branches in cspit","number of branches in cspit","which are the branches are available in cspit","available branches in cspit"],
+//30
+["admission contact number" , "contact number ","mobile number","to whom we can contact for admission related query"],
+//31
+["transportation facility", "bus facility", "bus","transportation","bus charges","bus facility charge"],
+//32
+["address of charusat","address","where charusat is located","where is charusat","where charusat is situated"],
+//33
+["teaching facility","professor"],
+//34
+["what are labs available there","lab","lab facility","labs available"],
+//35
+["personal guidance for admission","guide for admission","book a slot for councelling ", "councelling"],
+//36
+["which cells and centers present in charusat","What centers are available in charusat","Which centers are available in charusat","which cells and centers are there in charusat"],
+//37
+["percentage placement","company","placement","placement percentage","what are placement percentage"],
+//38
+["recruitment list"],
+//39
+["who made you", "who created you"],
+//40
+["scholarship", "scholarship for gujarat student","scholarship for ews",],
+
